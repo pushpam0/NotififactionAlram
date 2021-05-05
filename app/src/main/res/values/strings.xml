@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alram</string>
+    <string name="notification_activity">NotificationView</string>
+</resources>
